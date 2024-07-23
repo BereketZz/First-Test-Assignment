@@ -4,7 +4,7 @@ This project demonstrates a card component with checkboxes for page selection.
 
 ## Live Link
 
-[View Live Project](https://first-test-assignment-nqbq6oy5z-bereketzzs-projects.vercel.app/)
+[View Live Project on vercel](https://first-test-assignment-nqbq6oy5z-bereketzzs-projects.vercel.app/)
 
 ## Repository
 
